@@ -1,0 +1,7 @@
+keyboard
+pymem
+win32api
+psutil
+pywin32
+colorama
+pygetwindow
